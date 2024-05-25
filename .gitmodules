@@ -1,0 +1,3 @@
+[submodule "src/programs/ps-aof"]
+	path = src/programs/ps-aof
+	url = git@github.com:mamiral/ps-aof.git
